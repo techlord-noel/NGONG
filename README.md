@@ -23,7 +23,7 @@ We use the ` <h1> `
 we use the ` <section> `  
 we use the ` <div> `   
 block of codes  
-```cmd
+```commandline
 git clone <url>
 ```
 ```Javascript
