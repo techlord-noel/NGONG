@@ -17,5 +17,6 @@ block and nested code
 Bullet   
 - Item 1
   - Subitem
-- subsub
+1. subsub
+2. my first git repo
   - subsub
