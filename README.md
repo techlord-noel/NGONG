@@ -20,5 +20,5 @@ Bullet
     
 innline code   
 We use the ` <h1> `   
-we use the ` <section> `
+we use the ` <section> `  
 we use the ` <div> `
