@@ -1,4 +1,5 @@
-# NGONG
+# NGONG  
+---
 my first git repo
 # Heading1
 ## Heading2
@@ -11,6 +12,7 @@ my *first* git repo
 
 my first ***git*** repo    
 block and nested code  
+---
 >bord
 >>black
 
@@ -21,6 +23,7 @@ Bullet
 ---
     
 innline code   
+---
 We use the ` <h1> `   
 we use the ` <section> `  
 we use the ` <div> `   
