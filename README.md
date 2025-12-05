@@ -19,4 +19,6 @@ Bullet
   - Subitem
     
 innline code   
-We use the ` <h1> ` to  
+We use the ` <h1> `   
+we use the ` <section> `
+we use the ` <div> `
