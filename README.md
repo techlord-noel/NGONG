@@ -21,4 +21,12 @@ Bullet
 innline code   
 We use the ` <h1> `   
 we use the ` <section> `  
-we use the ` <div> `
+we use the ` <div> `   
+block of codes  
+```cmd
+git clone <url>
+```
+```Javascript
+console.log("hello")
+```
+
