@@ -35,6 +35,6 @@ git clone <url>
 console.log("hello")
 ```
 CITATION
-this code was created by [yvesdylane] (https://example.com)
+this code was created by [yvesdylane](https://example.com)
 
 
