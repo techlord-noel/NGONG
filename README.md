@@ -16,6 +16,7 @@ block and nested code
 >bord
 >>black
 https://dly.to/uBRx8bb2LwD
+https://medium.com/@techlordnoel/my-journey-so-far-as-a-software-engineer-eaa2d2dfc790
 
 Bullet   
 ---
